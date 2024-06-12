@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.pythonPath": "path/to/your/python/interpreter"
+}
