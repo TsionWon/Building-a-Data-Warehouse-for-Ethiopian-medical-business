@@ -1,0 +1,10 @@
+os
+pandas
+jupyter
+numpy
+telethon
+pandas
+openpyxl
+tqdm
+networkx
+python-louvain

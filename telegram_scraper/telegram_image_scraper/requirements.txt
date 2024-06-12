@@ -1,0 +1,13 @@
+pandas
+jupyter
+numpy
+telethon
+pandas
+openpyxl
+tqdm
+networkx
+matplotlib
+python-louvain
+os
+dotenv
+datetime
