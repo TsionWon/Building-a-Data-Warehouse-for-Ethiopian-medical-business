@@ -44,7 +44,7 @@ async def download_images(channel, start_date=None, end_date=None, max_images=No
         # Download the photo
         await client.download_media(message.photo, file=os.path.join(SAVE_DIR, f'{message.id}.jpg'))
         image_count += 1
-channel_name = 'lobelia4cosmetics'
+channel_name = 'CheMed123'
 # Start the client
 with client:
     # Run the function to download images from the channel
